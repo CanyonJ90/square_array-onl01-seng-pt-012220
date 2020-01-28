@@ -1,3 +1,10 @@
 def square_array(array)
-  # your code here
+  new array = []
+  array.each{|number|(a*a)}
+    end
+    array = ["1","2","3"]
+  
 end
+
+
+    
