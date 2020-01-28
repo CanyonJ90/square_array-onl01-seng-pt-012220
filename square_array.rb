@@ -3,8 +3,8 @@ def square_array(array)
   array.each{|a|new_array.push(a*a)}
   return new_array
 end
-    arr = [1, 2, 3]
-    square_array(arr)
+    array = [1, 2, 3]
+    square_array(array)
 
 
     
